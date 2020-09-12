@@ -15,6 +15,7 @@ export const mergePaginatedData = (connectionPath, previousData, newData) => (
     })
   )
 )
+// 
 
 const ApolloInfiniteScroll = ({
   data, connectionPath, loading, fetchMore, children, threshold

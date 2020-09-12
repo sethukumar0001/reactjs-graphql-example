@@ -1,9 +1,6 @@
 {
   "name": "react-apollo-realworld-example-app",
   "version": "0.1.0",
-  "description": "Exemplary real world application built with React + Apollo",
-  "author": "Donatas Stundys <donatas.stundys@gmail.com>",
-  "private": true,
   "dependencies": {
     "apollo-boost": "^0.1.10",
     "apollo-client": "^2.6.3",
